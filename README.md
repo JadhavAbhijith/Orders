@@ -52,10 +52,6 @@ The application supports responsive UI for **Desktop, Tablet, and Mobile**, alon
 
 ---
 
-
-
----
-
 ## ⚙️ Prerequisites
 
 Make sure the following are installed:
